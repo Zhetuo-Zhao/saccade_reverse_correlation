@@ -1,0 +1,7 @@
+Brightness=50
+Contrast=50
+gammaR = 1.9825
+gammaG = 2.0376
+gammaB = 2.2010
+
+On the screen side: 0
